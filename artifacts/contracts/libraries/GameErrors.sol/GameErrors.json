@@ -1,0 +1,61 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "GameErrors",
+  "sourceName": "contracts/libraries/GameErrors.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "AlreadyRegistered",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "BadFee",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "BadName",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "BadScore",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "Ended",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NoPlayers",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NotActive",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NotOpen",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "Started",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "TooManyInteractions",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

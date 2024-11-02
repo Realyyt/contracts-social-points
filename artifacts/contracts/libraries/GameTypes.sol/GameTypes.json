@@ -1,0 +1,46 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "GameTypes",
+  "sourceName": "contracts/libraries/GameTypes.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "AlreadyRegistered",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "IncorrectEntryFee",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "InvalidInteraction",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "InvalidState",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "NotRegistered",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "PlayerLimit",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "ScoreOverflow",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea2646970667358221220c45805e4313c0c50b84ed45603c666deede0e3bfe1c1da0200928dedb4cf1fb764736f6c63430008160033",
+  "deployedBytecode": "0x600080fdfea2646970667358221220c45805e4313c0c50b84ed45603c666deede0e3bfe1c1da0200928dedb4cf1fb764736f6c63430008160033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

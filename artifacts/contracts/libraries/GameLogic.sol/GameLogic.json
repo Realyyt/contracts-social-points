@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "GameLogic",
+  "sourceName": "contracts/libraries/GameLogic.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea2646970667358221220917580608904853c7b7593cb72bb98f6488bade8025adb78936a5f12e9d90b3a64736f6c63430008160033",
+  "deployedBytecode": "0x600080fdfea2646970667358221220917580608904853c7b7593cb72bb98f6488bade8025adb78936a5f12e9d90b3a64736f6c63430008160033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

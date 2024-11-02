@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "GameLibrary",
+  "sourceName": "contracts/libraries/GameLibrary.sol",
+  "abi": [],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea2646970667358221220777c5833011d57bab71ea3ca14d7b0aad7e98a81d42d5313290d7b795f749a8a64736f6c63430008160033",
+  "deployedBytecode": "0x600080fdfea2646970667358221220777c5833011d57bab71ea3ca14d7b0aad7e98a81d42d5313290d7b795f749a8a64736f6c63430008160033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
